@@ -1,1 +1,1 @@
-By Jean-Francis Carignan
+Efficient algorithm to find the minimal distance between two sets of numbers in O(n*log(n)).
